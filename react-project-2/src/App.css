@@ -33,7 +33,7 @@ div.card-body {
 
 h6.card-subtitle.fw-light {
   padding-bottom: 1rem;
-  color: #d09b51;
+  color: #b0b0b0;
 }
 
 a.btn.btn-primary.card-button1,
@@ -79,5 +79,5 @@ a.btn.btn-primary.card-button1:hover {
 }
 
 .socials p i:hover {
-  color: #d09b51;
+  color: #b0b0b0;
 }

@@ -3,8 +3,8 @@ export default function CardText() {
     <>
       <p className="card-text sec-1">
         <h5 className="card-title-sub">About</h5>
-        I'm T-126, a dedicated software engineering student in Sri Lanka,
-        passionate about programming and aspiring to become a full stack
+        I'm Thilina Rathnayaka, a dedicated software engineering student in Sri
+        Lanka, passionate about programming and aspiring to become a full stack
         developer.
       </p>
 
